@@ -1,0 +1,79 @@
+body{
+  background-color: #FAD961;
+  color: #1B1B1B;
+  font-family: 'poppins' sans-serif;
+}
+
+.spkr img{
+  width: 35%;
+  height: 45%;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+.userPic{
+  width: 50px;
+  height: 50px;
+  margin-right: 75px;
+}
+
+.navbar-brand .fas{
+padding-right: 1rem;
+}
+
+.navbar-brand{
+  font-weight: bold;
+  fo
+  font-family: sans-serif;
+}
+
+.kate{
+  font-weight: bold;
+  color: #1B1B1B;
+  position: absolute;
+  padding-top: 18px;
+  padding-left: 70px;
+}
+
+.orta-bolum{
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.bplay{
+  margin-left: 700px;
+  font-size: 15px;
+  font-weight: bold;
+}
+.yazi{
+  font-size: 50px;
+  font-weight: bold;
+  margin-left: 500px;
+  margin-top: 15px;
+}
+
+.bar{
+border: 2.5px solid;
+border-radius: 50px;
+font-family: 'Poppins', sans-serif;
+width: 500px;
+right: 700px;
+top: 170px;
+z-index: 0;
+}
+
+.btn{
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  border: 2.5px solid;
+  border-radius: 50px;
+  margin-left: 500px;
+  padding: 1rem 1rem;
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+  
+
+}
